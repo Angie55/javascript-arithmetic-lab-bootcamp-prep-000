@@ -30,7 +30,7 @@ function dec(n)
 
 function makeInt(n, base) 
 {
-  return parseInt(n, 10);
+  return parseInt(n, 10);l
 }
 
 function makeInt(n) 
