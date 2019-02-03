@@ -33,11 +33,6 @@ var parsed = parseInt(a);
 return parsed;
 }
 
-function makeInt(n) 
-{
-  return parseInt('cheese');
-}
-
 function preserveDecimal(n) {
   
 return parseFloat(n);
