@@ -28,8 +28,8 @@ function dec(n)
   return n - 1;
 }
 
-function makeInt (a){
-var parsed = parseInt(a);
+function makeInt (n){
+var parsed = parseInt(n);
 return parsed;
 }
 
